@@ -33,9 +33,11 @@ body,html {
 }
 
 .playing {
-  transform: scale(1.1);
+  transform: scale(1.7);
   border-color: #ffc600;
   box-shadow: 0 0 1rem #ffc600;
+  background: linear-gradient(white,black);
+  
 }
 
 kbd {
